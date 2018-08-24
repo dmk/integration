@@ -1,0 +1,23 @@
+{
+  "viewportWidth": 1440,
+  "viewportHeight": 900,
+
+  "port": 8088,
+
+  "env": {
+    "peatioHost": "api.wb3.helioscloud.com"
+  },
+
+  "video": true,
+  "videoCompression": false,
+  "videoUploadOnPasses": false,
+
+  "fixturesFolder": "fixtures",
+  "integrationFolder": "integration",
+
+  "supportFile": "src/support/index.js",
+  "pluginsFile": "src/plugins/index.js",
+
+  "videosFolder": "tmp/videos",
+  "screenshotsFolder": "tmp/screenshots"
+}

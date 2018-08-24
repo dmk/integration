@@ -1,0 +1,13 @@
+{
+  "name": "autotest",
+  "version": "0.1.0",
+  "description": "Automated tests for OPEX",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open"
+  },
+  "author": "Openware",
+  "devDependencies": {
+    "cypress": "^3.0.3"
+  }
+}
